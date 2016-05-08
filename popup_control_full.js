@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://phongcachitaly.com/vespa-sprint-abs-2016-tang-do-an-toan-cho-chien-ma-cu/' target='_blank'><img src='http://phongcachitaly.com/wp-content/uploads/2016/05/7248907fd7_640-640x300.jpg' width='500px'/></a>. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://phongcachitaly.com/mua-tra-gop-vespa/' target='_blank'><img src='http://phongcachitaly.com/wp-content/uploads/2016/05/628x90_zpsum4h8sxt.jpg' width='500px'/></a>. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
